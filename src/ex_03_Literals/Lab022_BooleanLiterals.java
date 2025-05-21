@@ -1,4 +1,4 @@
-package ex_02_Literals;
+package ex_03_Literals;
 
 public class Lab022_BooleanLiterals {
 
